@@ -1,8 +1,6 @@
 # Aziz Abdukakhkhorov
-***
 
 ## Contact
-***
 
 - **Phone:** +99894-173-61-11
 - **Email:** [azizmuradovone@gmail.com](mailto:azizmuradovone@gmail.com)
@@ -11,7 +9,6 @@
 - **Portfolio website:** [muradov.uz](https://muradov.uz)
 
 ## About Me
-***
 
 I am a Frontend developer. I love that they allow me to learn and show myself.
 I know how to work with JavaScript, Vue.js, Nuxt.js, Webflow and Git. 
@@ -19,7 +16,6 @@ In several projects at the firm where I work I attended and completed some of th
 You can find out more on my portfolio website.
 
 ## Skills
-***
 
 - HTML/CSS3
 - Sass/Less
@@ -30,7 +26,6 @@ You can find out more on my portfolio website.
 - Git
 
 ## Code Example
-***
 
     function mostSpokenLanguages(countries, count) {
     const languageCounts = {};
@@ -46,7 +41,6 @@ You can find out more on my portfolio website.
     });
 
 ## Experience
-***
 
 - **2023(Feb)-2023(Aug) at UIC Group**
     - Junior Frontend Developer
@@ -54,13 +48,11 @@ You can find out more on my portfolio website.
     - Web developer & WordPress developer
 
 ## Education
-***
 
 - **Udemy**
     - [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
 ## Languages
-***
 
 - **Uzbek** - Native speaker.
 - **Russian** - B1
