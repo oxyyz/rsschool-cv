@@ -1,0 +1,25 @@
+.skills {
+    padding: 0 48px;
+}
+
+.skills__wrapper {
+    display: flex;
+    column-gap: 30px;
+}
+
+.skills__item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    width: 200px;
+
+    i {
+        margin-right: 10px;
+        width: 20px;
+        font-size: 20px;
+        color: $span-color;
+    }
+
+    line-height: 1.5;
+}
+
